@@ -1,1 +1,1 @@
-# Telecom_customer_churn_case_study
+# Telecom customer Churn Case Study Hackathon
